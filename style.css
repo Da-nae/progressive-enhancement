@@ -1,25 +1,20 @@
-*  {
+/*  {
     margin: 0px;
     padding: 0px;
-}
+}*/
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Open sans;
     color: #0f2a2b;
     font-size: 17px;
     word-spacing: 1.5px;
     max-width: 90%;
     padding: 0px 50px 0px 50px;
-    align-items: center;
     background: radial-gradient(rgb(230, 165, 69), rgb(202, 120, 174));
     background-image: url("d658acfc-bf69-4532-b722-4231cd25ef92.png");
     background-repeat: no-repeat;
     background-position: bottom right;
     background-size: cover;
-}
-
-blockquote {
-    max-width: 50%;
 }
 
 a {
@@ -45,4 +40,23 @@ q {
     padding-left: 30px;
     margin-top: 80px;
     margin-bottom: 80px;
+    font-style: italic;
+}
+
+.villager {
+    border-left: 3px dashed rgb(0, 102, 255);
+}
+
+.farmer {
+    border-left: 3px dashed rgb(255, 0, 212);
+}
+
+header > details {
+    background-color: yellow;
+}
+
+img {
+    max-width: 400px;
+    float: left;
+    margin: 20px;
 }
