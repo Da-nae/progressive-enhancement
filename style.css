@@ -1,0 +1,48 @@
+*  {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0f2a2b;
+    font-size: 17px;
+    word-spacing: 1.5px;
+    max-width: 90%;
+    padding: 0px 50px 0px 50px;
+    align-items: center;
+    background: radial-gradient(rgb(230, 165, 69), rgb(202, 120, 174));
+    background-image: url("d658acfc-bf69-4532-b722-4231cd25ef92.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: cover;
+}
+
+blockquote {
+    max-width: 50%;
+}
+
+a {
+    color: #663e70;
+}
+
+a:hover {
+    color: pink;
+}
+
+a:visited {
+    color: green;
+}
+
+table {
+    border:1px solid #450820;
+}
+
+q {
+    font-size: 160%;
+    background-color: rgb(183, 183, 183);
+    border-left: 3px dashed red;
+    padding-left: 30px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
