@@ -41,6 +41,7 @@ q {
     margin-top: 80px;
     margin-bottom: 80px;
     font-style: italic;
+    display: block;
 }
 
 .villager {
