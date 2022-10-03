@@ -61,3 +61,15 @@ img {
     float: left;
     margin: 20px;
 }
+
+.notification{
+    background:#FFFFDD;
+    padding:.5rem 1rem;
+    border:3px solid #DDDDCC;
+    width:250px;
+    font-weight:bold;
+    color: #333300;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
